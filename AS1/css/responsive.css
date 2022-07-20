@@ -1,0 +1,74 @@
+@media screen and (max-width: 720px){
+
+
+    .about{
+        flex-direction: column;
+    }
+    .about-img{
+        width: 100%;
+    }
+    .about-img img{
+        width: 100%;
+    }
+    .about-content{
+        width: 100%;
+        padding: 0;
+        margin-bottom: 30px;
+    }
+    #about-me{
+        padding: 50px 20px;
+    }
+    #main-menu ul li {
+        margin: 0 7px;
+    }
+    #page-title{
+        padding: 70px 0;
+    }
+    #portfolio{
+        padding: 50px 20px;
+    }
+    .portfolio{
+        flex-direction: column;
+    }
+    .img-box{
+        width: 100%;
+        margin: 10px 0;
+    }
+    .img-box img{
+        width: 100%;
+    }
+    #contact{
+        padding: 40px 0;
+    }
+    .contact{
+        flex-direction: column;
+    }
+    .contact-box{
+        width: 100%;
+    }
+    .main {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .contact-box {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contcat-form {
+        width: 90%;
+        margin: 0 auto;
+        padding: 50px 20px;
+        
+    }
+    .blog{
+        flex-direction: column;
+    }
+    .blog-box{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    #blog {
+    
+        padding: 50px 20px;
+    }
+}
